@@ -19,7 +19,7 @@ Predict California housing prices using an **XGBoost Regression** model.
 - 🔮 Click **Predict** to estimate the house price.
 
 """)
-
+st.divider()
 with st.sidebar:
     st.info(
     "This demonstration uses the California Housing dataset. "
@@ -141,4 +141,4 @@ folium.Marker(
     icon=folium.Icon(color="red",icon="home",prefix="fa")
 ).add_to(m)
 
-st_folium(m,width=700,height=500)
+st_folium(m,width=700)
