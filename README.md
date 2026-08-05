@@ -2,9 +2,10 @@
 
 ![House picture](image/dataset-cover.jpg)
 
-A machine learning web application that predicts California housing prices using an **XGBoost Regressor**. The application is built with **Streamlit** and allows users to enter housing and neighborhood information to estimate the value of a property.
+An **end-to-end machine learning project** that predicts California housing prices using multiple regression models, feature engineering, hyperparameter tuning, and an interactive **Streamlit** web application.
 
-Check out the Streamlit app [here](https://stream-california-housing-price.streamlit.app/).
+🚀 **Live Demo:** [Try the Streamlit app here](https://stream-california-housing-price.streamlit.app/)
+
 ---
 ## Features
 
